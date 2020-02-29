@@ -1,0 +1,17 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\bin\Debug\Reflection Webserver.exe.config
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\bin\Debug\Reflection Webserver.exe
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\bin\Debug\Reflection Webserver.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\MainWindow.g.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\App.g.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver_MarkupCompile.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver_MarkupCompile.lref
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\MainWindow.baml
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver.g.resources
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection_Webserver.Properties.Resources.resources
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver.csproj.GenerateResource.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver.exe
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\bin\Debug\ReflectionLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\bin\Debug\ReflectionLib.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Reflection Webserver\Reflection Webserver\obj\Debug\Reflection Webserver.csproj.CopyComplete
